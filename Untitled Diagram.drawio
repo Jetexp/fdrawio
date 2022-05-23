@@ -1,57 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T15:17:40.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="biFfwEBpgJmDJTmS1dFe" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T16:40:44.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="57OMqMYcPaCso-XjNCOG" version="18.1.1" type="github">
   <diagram id="Ft17dDat9-RFkpIaz2wR" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-1" value="Создание blank&lt;br style=&quot;font-size: 14px;&quot;&gt;(пустого) проекта" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="10" width="206" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413" y="70" as="sourcePoint" />
-            <mxPoint x="413" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-6" value="Создание API контракта для взаимодействия с ресурсами&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="110" width="206" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-7" value="Создание клиентский части приложения. Построение структуры решения." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="210" width="206" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413" y="170" as="sourcePoint" />
-            <mxPoint x="413" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-10" value="Создание базовых контроллеров, количество которых равно количеству представлении.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="310" width="206" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="270" as="sourcePoint" />
-            <mxPoint x="414" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-12" value="Создание моделей представления для большей защиты информации." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="430" width="206" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413" y="390" as="sourcePoint" />
-            <mxPoint x="413" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="500" as="sourcePoint" />
-            <mxPoint x="414" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UTJBwHgbe8gueKp1wjf0-15" value="Создание навигации по приложению и создание пользовательского интерфейса." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="540" width="206" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
