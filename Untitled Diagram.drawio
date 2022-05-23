@@ -1,91 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T18:13:58.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="5XQpCHY5ONUCO8mjmMgS" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T15:17:40.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="biFfwEBpgJmDJTmS1dFe" version="18.1.1" type="github">
   <diagram id="Ft17dDat9-RFkpIaz2wR" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OBl_DATfnEDK09Sr07iG-2" value="&lt;h1&gt;Android Studio&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="300" height="85" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-1" value="Создание blank&lt;br style=&quot;font-size: 14px;&quot;&gt;(пустого) проекта" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="314" y="10" width="206" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-4" value="&lt;h1&gt;Eclipse&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="30" width="292.5" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="OBl_DATfnEDK09Sr07iG-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="280" as="targetPoint" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="70" as="sourcePoint" />
+            <mxPoint x="413" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-5" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1. Android Studio - официальная IDE для операционной системы Android от Google&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="35" y="140" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-6" value="Создание API контракта для взаимодействия с ресурсами&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="314" y="110" width="206" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-6" value="1. Eclipse - IDE, широко используемая для разработки приложений Android на базе java." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="140" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-7" value="Создание клиентский части приложения. Построение структуры решения." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="314" y="210" width="206" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-7" value="&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;2. Android Studio поддерживает Android.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="35" y="220" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="170" as="sourcePoint" />
+            <mxPoint x="413" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-8" value="2. Она поддерживает Android через расширение Google ADT." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="220" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-10" value="Создание базовых контроллеров, количество которых равно количеству представлении.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="314" y="310" width="206" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-9" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;3. В Android Studio есть встроенный инструмент сборки Gradle.&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="300" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="270" as="sourcePoint" />
+            <mxPoint x="414" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-10" value="3. В Eclipse по умолчанию есть инструмент сборки ANT. Хотя он уже устарел, когда мы видим Gradle в Android Studio." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="300" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-12" value="Создание моделей представления для большей защиты информации." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="314" y="430" width="206" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-11" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;4. Она получает регулярные обновления для разработки android.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="380" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="390" as="sourcePoint" />
+            <mxPoint x="413" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-12" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;4. У него нет регулярных обновлений для разработки андроид&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="380" width="290" height="60" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="500" as="sourcePoint" />
+            <mxPoint x="414" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-13" value="5. Android Studio поддерживает только java для программирования." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="460" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-14" value="5. С другой стороны, Eclipse поддерживает C, C++, PHP, Java, Perl, C# и многие другие языки." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="460" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-15" value="6. Разработчиком Android Studio является Google." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="540" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-16" value="6. Разработчиком Eclipse является Eclipse Foundation." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="540" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-17" value="7. Android Studio используется, в частности, для разработки андроид-приложений." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="620" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-18" value="7. Причиной ее разработки стало разнообразие приложений." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="620" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-19" value="8. Когда дело доходит до пользовательского интерфейса, Android Studio намного проще и быстрее." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="700" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-20" value="8. Eclipse не является родной IDE для Android и, следовательно, сложнее, чем Android Eclipse." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="700" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-21" value="9. Хотя обе программы поддерживают одинаково высококлассное автозавершение кода, Android имеет преимущество." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="32.5" y="780" width="295" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-22" value="9. Даже с высококлассным автозавершением кода eclipse не дотягивает до Android Studio." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="780" width="290" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-23" value="10. В Android для разработчиков доступна функция легкого перетаскивания макета." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="32.5" y="870" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-24" value="10. Увы, в Eclipse такой функции нет." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="870" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-25" value="11. Android быстрее, чем Eclipse, и разработчикам нравятся инструменты и ресурсы Android Studio." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="960" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-26" value="11. С другой стороны, Eclipse проигрывает Android и в случае скорости." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="960" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-27" value="12. Android легче, чем Eclipse. Он также часто дает сбои, хотя он более стабилен, чем Eclipse." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1050" width="285" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OBl_DATfnEDK09Sr07iG-28" value="12. По сравнению с Android, eclipse намного больше IDE и требует большого объема оперативной памяти и явно большей скорости процессора." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="511.25" y="1050" width="290" height="80" as="geometry" />
+        <mxCell id="UTJBwHgbe8gueKp1wjf0-15" value="Создание навигации по приложению и создание пользовательского интерфейса." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="314" y="540" width="206" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
